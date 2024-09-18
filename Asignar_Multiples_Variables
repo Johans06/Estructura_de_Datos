@@ -1,0 +1,19 @@
+a, b, c = "Johan", "Stevens", "Sanchez"
+print(a)
+print(b)
+print(c)
+# permite asignar valores a múltiples variables en una línea 
+
+d = e = f = "Lulo" 
+print(d)
+print(e)
+print(f)
+# se puede asignar el igual valor a múltiples variables en una línea
+
+casa = ["cocina", "nevera", "comedor"]
+x, y, z = casa
+print(x)
+print(y)
+print(z)
+# Si se tiene una colección de valores en una lista, 
+# se puede extraer los valores en variables. Esto se llama desempacando
